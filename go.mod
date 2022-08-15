@@ -1,4 +1,4 @@
-module example/stockopt
+module example/stockpit
 
 go 1.18
 
